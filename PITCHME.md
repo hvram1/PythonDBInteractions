@@ -5,10 +5,14 @@
 
 ###### Subject I was asked to be prepared about
 
-###### Python database APIs along with demonstration of one simple application development with front end as Python and backend as either __MySQL or Oracle or SQL Server__ |
-###### This application shall provide all database operations such as __insert, delete, update and query__ on the relations under discussion.. little with report generation.. |
-###### Assume one application such as hospital information / patient management or student management or hotel automation or company management application etc.,, |
-###### Main focus should be on database application development with Python as front end |
+###### 1.
+* Python database APIs along with demonstration of one simple application development with front end as Python and backend as either __MySQL or Oracle or SQL Server__ |
+###### 2.
+* This application shall provide all database operations such as __insert, delete, update and query__ on the relations under discussion.. little with report generation.. |
+###### 3. 
+* Assume one application such as hospital information / patient management or student management or hotel automation or company management application etc.,, |
+###### 4. 
+* Main focus should be on database application development with Python as front end |
  
 ---
 ![Logo](https://sajeelsud.files.wordpress.com/2012/06/haha.jpg?w=634)
